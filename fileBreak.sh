@@ -68,7 +68,7 @@ Questions
 What is the original file type? (PNG)
 
 What is the flag? 
-# OPEN FILE IN HEAXED.IT 
+# OPEN FILE IN HEXED.IT 
 # https://hexed.it/
 
 Replace the first 12 bytes with the standard PNG signature and padding bytes:
